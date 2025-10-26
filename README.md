@@ -1,5 +1,5 @@
-# AI & Machine Learning Product Portfolio
 <img width="1902" height="383" alt="image" src="https://github.com/user-attachments/assets/b707cd7e-a8ef-4ced-a0c7-34e9c9f6a4a7" />
+# AI & Machine Learning Product Portfolio
 
 Welcome to my **AI ML Product Management Portfolio**, where strategic vision meets executable machine-learning solutions.  
 This repository showcases a curated collection of **end-to-end projects** that demonstrate my ability to translate business objectives into actionable AI products and drive their execution — from ideation through deployment and optimization.
