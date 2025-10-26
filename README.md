@@ -9,8 +9,7 @@ This repository showcases a curated collection of **end-to-end projects** that t
 
 ## Featured Projects
 
-- [**HelmNet Image Classification**](projects/HelmNet-Computer-Vision.ipynb) <br>
-
+- [**HelmNet Image Classification**](projects/HelmNet-Computer-Vision.ipynb)<br>
   Developed an image classification model to detect whether workers are wearing safety helmets, ensuring workplace safety compliance.  
   **Tools & Skills:** EDA, Data Preprocessing, Convolutional Neural Networks, Transfer Learning, Data Augmentation, Optimization
 
@@ -19,6 +18,5 @@ This repository showcases a curated collection of **end-to-end projects** that t
   **Tools & Skills:** EDA, Data Preprocessing, TensorFlow, Keras, Artificial Neural Networks, Regularization
 
 - [**FoodHub Exploratory Data Analysis**](projects/Food-Hub-Exploratory-Data-Analysis.ipynb)<br>
-
   Performed exploratory data analysis for a food aggregator company to provide actionable insights on restaurant and cuisine demand.  
   **Tools & Skills:** Python, NumPy, Pandas, Seaborn, Exploratory Data Analysis, Bivariate & Univariate Analysis, Business Recommendations
