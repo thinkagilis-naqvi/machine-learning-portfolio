@@ -7,7 +7,7 @@ This repository showcases a curated collection of **end-to-end projects** that d
 
 ## 🔍 Featured Projects
 
-- **SuperKart**
+- **SuperKart** <br>
   Forecasted sales revenue for a retail chain to optimize inventory and regional sales strategies. Operationalized the model at scale using APIs and web deployment.  
   **Tools & Skills:** EDA, Data Preprocessing, Model Building, Hyperparameter Tuning, Docker, Flask, API Development, Streamlit, HuggingFace
 
@@ -23,7 +23,7 @@ This repository showcases a curated collection of **end-to-end projects** that d
   Built a predictive model to identify employees eligible for promotion using organizational data attributes.  
   **Tools & Skills:** EDA, SMOTE, Bagging, Boosting, Cross Validation, Data Preprocessing, Random Forest, Hyperparameter Tuning
 
-- **Bank Customer Churn Prediction**   (./projects/bank-customer-churn-prediction/Bank-Customer-Churn-Prediction.ipynb)
+- [**Bank Customer Churn Prediction**](./projects/bank-customer-churn-prediction/Bank-Customer-Churn-Prediction.ipynb)<br>
   Developed a neural network to predict customer churn and provide actionable retention strategies for the operations team.  
   **Tools & Skills:** EDA, Data Preprocessing, TensorFlow, Keras, Artificial Neural Networks, Regularization
 
