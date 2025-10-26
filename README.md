@@ -27,11 +27,13 @@ This repository showcases a curated collection of **end-to-end projects** that d
   Developed a neural network to predict customer churn and provide actionable retention strategies for the operations team.  
   **Tools & Skills:** EDA, Data Preprocessing, TensorFlow, Keras, Artificial Neural Networks, Regularization
 
-- **Personal Loan Campaign**
+- [**Personal Loan Campaign**](./projects/Personal Loan Campaign_Customer Prediction.ipynb)<img width="854" height="37" alt="image" src="https://github.com/user-attachments/assets/d91650c0-a031-431d-ab22-98567452ff2e" /><br>
+
   Created a predictive model to identify customers likely to purchase loans, improving marketing targeting and conversion.  
   **Tools & Skills:** EDA, Data Preprocessing, Decision Trees, Model Performance Evaluation, Business Recommendations
 
-- **FoodHub** 
+- [**FoodHub**](./projects/Food Hub_Exploratory Data Analysis.ipynb)<img width="736" height="37" alt="image" src="https://github.com/user-attachments/assets/41a34d1d-f161-4761-a1cb-2b775f0346c0" /><br>
+
   Performed exploratory data analysis for a food aggregator company to provide actionable insights on restaurant and cuisine demand.  
   **Tools & Skills:** Python, NumPy, Pandas, Seaborn, Exploratory Data Analysis, Bivariate & Univariate Analysis, Business Recommendations
 
