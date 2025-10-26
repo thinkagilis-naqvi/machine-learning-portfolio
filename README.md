@@ -3,7 +3,7 @@
 # AI & Machine Learning Product Portfolio
 
 Welcome to my **AI ML Product Management Portfolio**, where strategic vision meets executable machine-learning solutions.  
-This repository showcases a curated collection of **end-to-end projects** that demonstrate my ability to translate business objectives into actionable AI products and drive their execution — from ideation through deployment and optimization.
+This repository showcases a curated collection of **end-to-end projects** that translate business objectives into actionable AI products and drive their execution — from ideation through deployment and optimization.
 
 ---
 
