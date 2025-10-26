@@ -7,20 +7,34 @@ This repository showcases a curated collection of **end-to-end projects** that d
 
 ## 🔍 Featured Projects
 
-- **Customer Segmentation & Behavioral Clustering**  
-  Scalable ML pipeline to segment customers by behavior, enabling targeted marketing and improved retention.
+- **SuperKart**
+  Forecasted sales revenue for a retail chain to optimize inventory and regional sales strategies. Operationalized the model at scale using APIs and web deployment.  
+  **Tools & Skills:** EDA, Data Preprocessing, Model Building, Hyperparameter Tuning, Docker, Flask, API Development, Streamlit, HuggingFace
 
-- **Time-Series Predictive Maintenance Model**  
-  LSTM and regression models to forecast equipment failures and reduce downtime.
+- **Stock Market News Sentiment Analysis and Summarization**
+  Built an AI-driven system to analyze news articles, perform sentiment analysis, and generate weekly summaries to support investment decisions.  
+  **Tools & Skills:** Exploratory Data Analysis, Data Preprocessing, Word2Vec, GloVe, Sentence Transformer, Model Building, Hyperparameter Tuning, Large Language Models
 
-- **Sentiment Analysis for Product Feedback**  
-  NLP solution leveraging transformer architectures to uncover customer insights and guide feature prioritization.
+- **HelmNet** 
+  Developed an image classification model to detect whether workers are wearing safety helmets, ensuring workplace safety compliance.  
+  **Tools & Skills:** EDA, Data Preprocessing, Convolutional Neural Networks, Transfer Learning, Data Augmentation, Optimization
 
-- **Recommender System Prototype (Collaborative + Content-Based)**  
-  Hybrid recommendation engine to boost personalization and engagement.
+- **Employee Promotion Prediction** 
+  Built a predictive model to identify employees eligible for promotion using organizational data attributes.  
+  **Tools & Skills:** EDA, SMOTE, Bagging, Boosting, Cross Validation, Data Preprocessing, Random Forest, Hyperparameter Tuning
 
-- **Data Strategy & AI Governance Framework**  
-  Framework ensuring scalable, trustworthy, and ROI-driven AI operations.
+- **Bank Customer Churn Prediction**   (./projects/bank-customer-churn-prediction/Bank-Customer-Churn-Prediction.ipynb)
+  Developed a neural network to predict customer churn and provide actionable retention strategies for the operations team.  
+  **Tools & Skills:** EDA, Data Preprocessing, TensorFlow, Keras, Artificial Neural Networks, Regularization
+
+- **Personal Loan Campaign**
+  Created a predictive model to identify customers likely to purchase loans, improving marketing targeting and conversion.  
+  **Tools & Skills:** EDA, Data Preprocessing, Decision Trees, Model Performance Evaluation, Business Recommendations
+
+- **FoodHub** 
+  Performed exploratory data analysis for a food aggregator company to provide actionable insights on restaurant and cuisine demand.  
+  **Tools & Skills:** Python, NumPy, Pandas, Seaborn, Exploratory Data Analysis, Bivariate & Univariate Analysis, Business Recommendations
+
 
 ---
 
